@@ -11,4 +11,4 @@ def hashtester(hash, key)
   puts hash, hash[key]
 end
 
-hashtester(hash1, :age)
+hashtester(hash1, :weight)
