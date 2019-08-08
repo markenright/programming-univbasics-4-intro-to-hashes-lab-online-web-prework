@@ -6,5 +6,5 @@ def hash_tester(key, value)
   return hash1
 end
 
-puts hash_tester(:name, "bob")
+puts hash_tester("name", "bob")
 
