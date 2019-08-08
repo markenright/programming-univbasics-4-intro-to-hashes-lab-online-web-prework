@@ -5,4 +5,4 @@ def hashtester(hash, key)
   puts hash, key
 end
 
-hashtester(hash, "age")
+hashtester(hash1, "age")
