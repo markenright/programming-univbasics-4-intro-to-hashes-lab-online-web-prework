@@ -1,3 +1,3 @@
-hash1 = {name: "mark", lastname = "enright", age = 30}
+hash1 = {name: "mark", lastname: "enright", age: 30}
 puts hash1
 
