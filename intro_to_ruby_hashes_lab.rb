@@ -15,12 +15,12 @@ def pioneer
 end
 
 def id_generator
-  {id: -1}
+  {id: 1}
   # return a hash with a key :id assigned to positive integer
 end
 
 def my_hash_creator(key, value)
-  {key: "value"}
+  {key: value}
   # return a hash that includes the key and value parameters passed into this method
 end
 
